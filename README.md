@@ -26,7 +26,7 @@ CodifyTube, YouTube videolarını hızlı ve kolay bir şekilde indirmek ve dön
 ## Kurulum
 
 1. Projeyi klonlayın veya ZIP dosyasını indirin.
-2. `ffmpeg.exe` dosyasını proje klasörüne ekleyin.
+2. `ffmpeg.exe` dosyasını proje klasörüne ekleyin (Zaten projede var çalışacaktır.)
 3. `CodifyTube.sln` dosyasını Visual Studio ile açın.
 4. Uygulamayı derleyin ve çalıştırın.
 
