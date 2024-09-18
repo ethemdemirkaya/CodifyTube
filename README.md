@@ -1,6 +1,6 @@
 # CodifyTube
 
-CodifyTube, YouTube videolarını hızlı ve kolay bir şekilde indirmek ve dönüştürmek için geliştirilmiş bir C# WinForms uygulamasıdır. Uygulama, videoların MP4 formatında indirilmesini ve sesli veya sessiz olarak kaydedilmesini sağlar. Ayrıca, videoların thumbnail'lerini görüntüleme ve video kalitesini seçme gibi özellikler sunar.
+CodifyTube, YouTube videolarını hızlı ve kolay bir şekilde indirmek ve dönüştürmek için geliştirilmiş bir C# WinForms uygulamasıdır. Uygulama, videoların MP4 ve MP3 formatında indirilmesini sağlar. Ayrıca, videoların thumbnail'lerini görüntüleme, video kalitesini seçme ve ses kalitesini seçme gibi özellikler sunar.
 
 ## Özellikler
 
